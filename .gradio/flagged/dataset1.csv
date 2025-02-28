@@ -1,0 +1,16 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio\flagged\audio_filepath\4e8b7d0056bcb106237f\audio.wav,.gradio\flagged\image_filepath\44677faf4ac3fd437a94\Sun_Spots.webp, These are some of the black spots that have appeared. How to reduce or cure it?,"With what you've shared, I think you have freckles. Freckles are small, harmless spots on the skin that are usually darker than the surrounding skin. They are caused by a concentration of melanin, the pigment that gives color to our hair, eyes, and skin. Freckles are more common in people with fair skin and red or blonde hair. They can appear anywhere on the body, but are most commonly found on the face, arms, and hands.
+
+To reduce or cure freckles, there are several remedies you can try:
+
+* Use sunscreen with at least SPF 30 daily to prevent further damage from the sun's UV rays
+* Apply a topical cream or gel containing hydroquinone, kojic acid, or retinoids to lighten the freckles over time
+* Try laser therapy to reduce the size and color of the freckles
+* Use a chemical peel to remove the top layers of the skin and help fade the freckles
+* Stay hydrated by drinking plenty of water to keep your skin plump and healthy
+
+It's important to note that while these remedies can help reduce the appearance of freckles, they may not completely eliminate them. If you're concerned about your freckles, it's always best to consult with a dermatologist for personalized advice and treatment.",,2025-02-27 19:56:16.225544
+.gradio\flagged\audio_filepath\b6f294cfeeb59ced3673\audio.wav,.gradio\flagged\image_filepath\5a64a268c215eec01ad4\Sun_Spots.webp, What are the dark spots on the face called and how to cure it?,"With what I see, I think you have Freckles or Lentigines; these are small, usually innocuous spots on the face, forehead, and hands that appear as flat, brown or darker spots. These spots are often caused by sun exposure, genetics, and hormonal fluctuations; if they appear on the face, it is recommended to wear sunscreen with at least SPF 30 to protect the skin from further damage.",,2025-02-28 13:27:09.366131
+.gradio\flagged\audio_filepath\e4bfe5a54a0da304bce0\audio.wav,.gradio\flagged\image_filepath\2cefd29342fa7f7384cb\png, What is the problem with my hair and how to cure it?,"With what you have shared, I think you have the symptoms of alopecia areata. You are experiencing hair loss on the right side of your head and eyebrows, which are common areas where this condition can manifest.
+
+To restore hair growth, I recommend consulting a dermatologist for a professional assessment and guidance. In the meantime, you can try additional treatments such as minoxidil (Rogaine), which is a topical solution that can help stimulate hair growth in affected areas. Additionally, using a scalp massager can improve blood flow and reduce stress to potentially enhance hair growth. Massage your scalp gently two to three times a week to see if it makes a difference.",.gradio\flagged\output 2\f89c43f57f1080ed7890\final.mp3,2025-02-28 13:45:46.149742
